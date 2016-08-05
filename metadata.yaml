@@ -1,0 +1,24 @@
+_repo: Five-Thousand-Dollars-Reward_9409
+_version: 0.0.1
+alternative_title: $5,000 Reward
+creator:
+  author:
+    agent_name: Pinkerton, A. Frank
+    gutenberg_agent_id: '1840'
+    url: http://www.gutenberg.org/2009/agents/1840
+description: ''
+gutenberg_issued: '2005-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9409'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Mystery fiction'
+- !lcsh 'American fiction -- 19th century'
+- GITenberg
+title: Five Thousand Dollars Reward
+url: http://www.gutenberg.org/ebooks/9409
