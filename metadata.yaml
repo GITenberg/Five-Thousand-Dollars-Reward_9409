@@ -1,12 +1,17 @@
 _repo: Five-Thousand-Dollars-Reward_9409
-_version: 0.0.1
+_version: 0.1.0
 alternative_title: $5,000 Reward
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Pinkerton, A. Frank
     gutenberg_agent_id: '1840'
     url: http://www.gutenberg.org/2009/agents/1840
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9409#Five-Thousand-Dollars-Reward
 gutenberg_issued: '2005-12-01'
 gutenberg_type: Text
 identifiers:
